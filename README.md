@@ -15,10 +15,10 @@ at the National Institutes of Health (NIH).
 
 ## 📂 Projects
 
-### 🔷 [Power BI Dashboards](https://github.com/mibrahim/power-bi-dashboards)
+### 🔷 [Power BI Dashboards](https://github.com/honestjey/power-bi-dashboards)
 KPI dashboards and operational reports built with Power BI, DAX, and Power Query.
 
-### 🔷 [SQL Projects](https://github.com/mibrahim/sql-projects)
+### 🔷 [SQL Projects](https://github.com/honestjey/sql-projects)
 SQL queries for data validation, KPI reporting, and data cleaning.
 
 ---
