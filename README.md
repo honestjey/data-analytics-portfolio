@@ -1,30 +1,28 @@
 # Mohamed Ibrahim — Data Analytics Portfolio
 
-Power BI Developer & Data Analyst | Falls Church, VA
+Transitioning into Business Intelligence & Data Analytics | Falls Church, VA
 Active Federal Public Trust Clearance
 
 ---
 
 ## 👋 About Me
-Power BI Developer with experience creating dashboards, validating data
-accuracy, and transforming complex datasets into actionable insights.
-Currently working at Inova Health System and as an AI Data Reviewer
-at the National Institutes of Health (NIH).
+Detail-oriented professional completing a Power BI Developer program at ImpactTek
+IT Training. Experienced in federally regulated environments as an AI Data Reviewer
+at the National Institutes of Health (NIH) and as a Surgical Technologist at
+Inova Health System.
 
 ---
 
 ## 📂 Projects
 
-### 🔷 [Power BI Dashboards](https://github.com/your-username/power-bi-dashboards)
-KPI dashboards and operational reports built with Power BI, DAX, and Power Query.
+### 🔷 [Power BI Dashboards](https://github.com/honestjey/power-bi-dashboards)
+KPI dashboards, DAX calculations, and data modeling built during ImpactTek training.
 
-### 🔷 [SQL Projects](https://github.com/your-username/sql-projects)
-SQL queries for data validation, KPI reporting, and data cleaning.
-*(Coming soon)*
+### 🔷 [SQL Projects](https://github.com/honestjey/sql-projects)
+SQL queries for data analysis and reporting. *(Coming soon)*
 
-### 🔷 [Python Projects](https://github.com/your-username/python-projects)
-Python scripts for data cleaning, visualization, and exploratory analysis.
-*(Coming soon)*
+### 🔷 [Python Projects](https://github.com/honestjey/python-projects)
+Python scripts for data cleaning, analysis, and visualization using Pandas and Matplotlib. *(Coming soon)*
 
 ---
 
@@ -32,16 +30,21 @@ Python scripts for data cleaning, visualization, and exploratory analysis.
 | Category | Tools |
 |---|---|
 | BI & Reporting | Power BI, DAX, Power Query, KPI Reporting, Power BI Embedded, RLS |
-| Data | SQL, Excel, Data Validation, Data Cleansing, Data Modeling |
-| Soft Skills | Stakeholder Collaboration, Requirements Gathering |
+| Data & ETL | SQL, Python, Excel, Data Modeling, Star Schema Design, ETL |
+| Soft Skills | Stakeholder Collaboration, Requirements Gathering, Technical Documentation |
 
 ---
 
+## 🎓 Training
+- **Power BI Developer Program** — ImpactTek IT Training *(Completed 2024)*
+
 ## 🏅 Certifications
-- Google Data Analytics Professional Certificate (2024)
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) — *In Progress*
+- Google Data Analytics Professional Certificate *(2024)*
 
 ---
 
 ## 📫 Contact
 - 📧 mai5054@live.com
 - 📍 Falls Church, VA
+- 💼 [linkedin.com/in/mohaibra](https://www.linkedin.com/in/mohaibra)
