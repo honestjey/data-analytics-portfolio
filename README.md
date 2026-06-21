@@ -1,15 +1,18 @@
 # Mohamed Ibrahim — Data Analytics Portfolio
 
 Advancing into Business Intelligence & Data Analytics | Falls Church, VA
+Seeking: Junior Power BI Developer | Entry-Level Business Intelligence Analyst
 Active Federal Public Trust Clearance
 
 ---
 
 ## 👋 About Me
-Results-driven professional advancing my career into Business Intelligence, completing a Power BI Developer program at ImpactTek
-IT Training. Experienced in federally regulated environments as an AI Data Reviewer
-at the National Institutes of Health (NIH) and as a Surgical Technologist at
-Inova Health System.
+Results-driven professional advancing my career into Business Intelligence and
+Data Analytics. Completed hands-on Power BI Developer training at ImpactTek IT
+Training, building 3 real-world projects covering dashboard development, data
+analysis, DAX, data modeling, and business requirements gathering. Experienced
+in federally regulated environments as an AI Data Reviewer at NIH and as a
+Surgical Technologist at Inova Health System.
 
 ---
 
@@ -30,21 +33,5 @@ Python scripts for data cleaning, analysis, and visualization using Pandas and M
 | Category | Tools |
 |---|---|
 | BI & Reporting | Power BI, DAX, Power Query, KPI Reporting, Power BI Embedded, RLS |
-| Data & ETL | SQL, Python, Excel, Data Modeling, Star Schema Design, ETL |
-| Soft Skills | Stakeholder Collaboration, Requirements Gathering, Technical Documentation |
-
----
-
-## 🎓 Training
-- **Power BI Developer Program** — ImpactTek IT Training *(Completed 2024)*
-
-## 🏅 Certifications
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) — *In Progress*
-- Google Data Analytics Professional Certificate *(2024)*
-
----
-
-## 📫 Contact
-- 📧 mai5054@live.com
-- 📍 Falls Church, VA
-- 💼 [linkedin.com/in/mohaibra](https://www.linkedin.com/in/mohaibra)
+| Data & ETL | SQL, Python, Excel, Data Analysis, Data Modeling, Star Schema Design, ETL |
+|
