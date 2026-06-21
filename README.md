@@ -18,13 +18,13 @@ Surgical Technologist at Inova Health System.
 
 ## 📂 Projects
 
-### 🔷 [Power BI Dashboards](https://github.com/honestjey/power-bi-dashboards)
+### 🔷 [Power BI Dashboards](https://github.com/mibrah03/power-bi-dashboards)
 KPI dashboards, DAX calculations, and data modeling built during ImpactTek training.
 
-### 🔷 [SQL Projects](https://github.com/honestjey/sql-projects)
+### 🔷 [SQL Projects](https://github.com/mibrah03/sql-projects)
 SQL queries for data analysis and reporting. *(Coming soon)*
 
-### 🔷 [Python Projects](https://github.com/honestjey/python-projects)
+### 🔷 [Python Projects](https://github.com/mibrah03/python-projects)
 Python scripts for data cleaning, analysis, and visualization using Pandas and Matplotlib. *(Coming soon)*
 
 ---
