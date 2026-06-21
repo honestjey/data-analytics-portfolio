@@ -1,12 +1,12 @@
 # Mohamed Ibrahim — Data Analytics Portfolio
 
-Transitioning into Business Intelligence & Data Analytics | Falls Church, VA
+Advancing into Business Intelligence & Data Analytics | Falls Church, VA
 Active Federal Public Trust Clearance
 
 ---
 
 ## 👋 About Me
-Detail-oriented professional completing a Power BI Developer program at ImpactTek
+Results-driven professional advancing my career into Business Intelligence, completing a Power BI Developer program at ImpactTek
 IT Training. Experienced in federally regulated environments as an AI Data Reviewer
 at the National Institutes of Health (NIH) and as a Surgical Technologist at
 Inova Health System.
